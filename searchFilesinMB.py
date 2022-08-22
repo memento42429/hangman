@@ -30,3 +30,4 @@ if __name__ == '__main__':
 
     size_in_mb = 5000
     search_files(parent, size_in_mb)
+    print("scan is over")
